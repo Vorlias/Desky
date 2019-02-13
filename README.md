@@ -8,7 +8,7 @@ I created this a while back, because they way to achieve setting multiple wallpa
 If you have two monitors, the first argument will be monitor 1, the second monitor 2.
 
 ### desky -a|--use-args
-`desky -a "path\to\wallpaper1.jpg" "path\to\wallpaper2.jpg"`
+`desky -a "path\to\wallpaper1.jpg" "path\to\wallpaper2.jpg" ...` (add more, if there's more monitors)
 
 ### desky -f|--file=
 `desky -f wallpaper-config.txt`
