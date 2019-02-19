@@ -1,7 +1,7 @@
 # Desky
 A simple CLI tool to set individual monitor wallpapers in Windows 10.
 
-I created this a while back, because they way to achieve setting multiple wallpapers in Windows 10 is very tedious.
+I created this a while back, because the way to achieve setting multiple wallpapers in Windows 10 is very tedious.
 
 
 ## Usage
